@@ -1,3 +1,6 @@
+Connor Monk
+
+
 2.
 What css rule did you use?
     The background-color rule. 
