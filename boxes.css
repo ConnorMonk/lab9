@@ -4,5 +4,8 @@ div {
     border: 2px solid black;
     height: 100px;
     width: 100px;
-    background-color: wheat;
+    /* background-color: wheat; */
+    /* margin: 50px; */
+    /* padding: 50px; */
+    /* float: right; */
 }
