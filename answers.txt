@@ -1,0 +1,32 @@
+2.
+What css rule did you use?
+    The background-color rule. 
+How would you write it in a css file so that only this div gets the new background color?
+    You could write it inline as <div id="div1" style="background-color:yellowgreen;">
+What does changing the margin do? What does changing the padding do?
+    Changing the margin changed the space around the boxes. Changing the padding impacted the area of each box. 
+
+3.
+What happens if the margin is greater than 100px?
+    When the margin is greater than 100px, it is pushed entirely outside of the box it was in as the margin pushes it away from the edge of the page.
+What happens if the padding is greater than 100px?
+    When the padding is greater than 100px it makes the yellow area around the text much larger. 
+What is the difference between scroll and hidden?
+    Hidden cuts off the overflow and just hides it. Scroll cuts off the overflow but lets you scroll to see it all.
+
+4.
+What order are they in?
+    They are still ordinal and from left to right are div 1, div 2, and then div 3.
+What if they all have the float: right attribute instead?
+    Their order is reversed: 3,2,1.
+Keeping all divs with the float: right attribute, give each one in turn the two attributes float: left and clear: right.
+Describe the relative positions of the boxes with each combination.
+    With box 1 having the attributes, it is seperated further from the other two and the order is 1,3,2.
+    With box 2 having the attributes, it is a line below box 1 and it is left aligned while 1 and 3 are along the right side of the page. 
+    With box 3 having the attributes, box 1 and 2 are in reverse order on the first line on the right of the page, and below them is box three along the left of the page. 
+
+5.
+What changes?
+    The boxes shifted as far left as they could. 
+What does this tell you about the default margin value?
+    This shows that the default margin value is not 0.

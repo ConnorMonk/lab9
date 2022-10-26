@@ -1,0 +1,45 @@
+/* the css rules for menu.html */
+
+div {
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    float: left;
+    background-color: white;
+    top: 0;
+}
+
+.menuItem {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    float: none;
+    font-family:monospace ;
+    /* color: maroon; */
+    border: 2px outset red;
+    
+}
+
+.infoItem {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    float: none;
+}
+
+p {
+    padding: 0px;
+}
+
+h1 {
+    /* padding-top: 250px; */
+    /* margin-top: 250px; */
+    /* white-space: normal; */
+    /* float: top; */
+}
+
+a:hover {
+    background-color: hotpink;
+  }
